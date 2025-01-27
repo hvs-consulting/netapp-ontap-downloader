@@ -2,8 +2,8 @@ package main
 
 import (
 	"io"
-    "flag"
-    "fmt"
+	"flag"
+	"fmt"
 	"net/http"
 	"net/url"
 	"crypto/tls"
